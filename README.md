@@ -6,5 +6,5 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
 
-#Tableau
+# Tableau
 https://public.tableau.com/app/profile/wilton.ngo/viz/RockbusterStealthDataAnalysis_16809822899530/Story1
