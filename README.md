@@ -1,4 +1,4 @@
-# RockBuster-SQL
+# Business Performance Analysis
 Data Analyst Project Conducted in SQL for Career Foundry Data analyst
 
 # Objective
